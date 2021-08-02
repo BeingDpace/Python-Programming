@@ -7,7 +7,6 @@
 * coding is done on Python 3.8.5
 ***
 ## employee_App.py: a program that stores Employee objects in a dictionary and present a menu that lets the user perform the following actions:
-***
 * Look up an employee in the dictionary
 * Add a new employee to the dictionary
 * Change an existing employee’s name, depart, and job title in the dictionary
