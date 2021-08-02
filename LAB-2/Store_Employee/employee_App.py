@@ -1,5 +1,4 @@
 # This program manages contacts.
-# This program manages contacts.
 import employee
 import pickle
 
