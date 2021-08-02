@@ -1,8 +1,5 @@
 # PYTHON PROGRAMMING
 ***
-
-* NAME: DEEPESH BHATTA
-
 ***
 * coding is done on Python 3.8.5
 ***
