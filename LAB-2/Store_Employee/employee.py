@@ -1,4 +1,4 @@
-# The Contact class holds contact information.
+# The Employee class holds contact information.
 
 class Employee:
     # The __init__ method initializes the attributes.
