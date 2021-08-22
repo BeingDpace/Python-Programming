@@ -62,5 +62,5 @@ class Hypotenuse:
         # object referenced by c.
         self.c.set(format(h,'.3f'))
 
-# Create an instance of the TestAvg class.
+# Create an instance of the Hypotenuse class.
 c_hypotenuse = Hypotenuse()
